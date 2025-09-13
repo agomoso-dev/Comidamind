@@ -1,11 +1,10 @@
-````
+
 # 🍽️ Comidamind
 
 Aplicación para automatizar la planificación semanal de dietas familiares,
 construida con **Django + React + PostgreSQL + Docker**.
 Genera dietas usando un LLM y muestra quécomer cada día de manera organizada.
 
----
 
 ## 🚀 Clonar el repositorio
 
