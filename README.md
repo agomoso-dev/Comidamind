@@ -1,7 +1,9 @@
 ````
 # 🍽️ Comidamind
 
-Aplicación para automatizar la planificación semanal de dietas familiares, construida con **Django + React + PostgreSQL + Docker**. Genera dietas usando un LLM y muestra qué comer cada día de manera organizada.
+Aplicación para automatizar la planificación semanal de dietas familiares,
+construida con **Django + React + PostgreSQL + Docker**.
+Genera dietas usando un LLM y muestra quécomer cada día de manera organizada.
 
 ---
 
@@ -81,11 +83,8 @@ cp .env.local .env
 docker-compose up -d --build
 ```
 
----
-
 ## 💡 Nota
 
 Este proyecto está en desarrollo, ideal para pruebas y mejoras continuas. Cualquier contribución es bienvenida.
 
-```
 
