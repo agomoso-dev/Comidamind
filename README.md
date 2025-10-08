@@ -1,5 +1,5 @@
 
-# 🍽️ Comidamind
+# Comidamind
 
 Aplicación para automatizar la planificación semanal de dietas familiares,
 construida con **Django + React + PostgreSQL + Docker**.
@@ -7,7 +7,7 @@ Genera dietas usando un LLM y muestra quécomer cada día de manera organizada.
 
 ---
 
-## 🚀 Clonar el repositorio
+## Clonar el repositorio
 
 ```bash
 git clone https://github.com/<your_user>/ComidaMind.git
@@ -16,7 +16,7 @@ cd ComidaMind
 
 ---
 
-## ⚙️ Configuración
+## Configuración
 
 Copia el archivo de variables de entorno:
 
@@ -24,13 +24,13 @@ Copia el archivo de variables de entorno:
 cp .env.local .env
 ```
 
-Asegúrate de configurar las credenciales y parámetros necesarios en `.env`.
+ Configurar las credenciales y parámetros necesarios en `.env`.
 
 ---
 
-## 🐳 Despliegue con Docker
+## Despliegue con Docker
 
-Construye y levanta los contenedores:
+Construir y levantar los contenedores:
 
 ```bash
 docker-compose up -d --build
@@ -50,7 +50,7 @@ docker-compose up -d
 
 ---
 
-## ✅ Próximos pasos / TODO
+## Próximos pasos / TODO
 
 ### Seguridad
 
@@ -59,7 +59,7 @@ docker-compose up -d
 
 ---
 
-## 📦 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 * **Backend:** Django (Python)
 * **Frontend:** React
@@ -69,7 +69,7 @@ docker-compose up -d
 
 ---
 
-## ⚡ Instalación rápida
+## Instalación rápida
 
 ```bash
 # Clonar repo
@@ -82,9 +82,5 @@ cp .env.local .env
 # Levantar contenedores
 docker-compose up -d --build
 ```
-
-## 💡 Nota
-
-Este proyecto está en desarrollo, ideal para pruebas y mejoras continuas. Cualquier contribución es bienvenida.
 
 
