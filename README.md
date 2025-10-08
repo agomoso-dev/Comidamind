@@ -47,16 +47,6 @@ Para reiniciar los contenedores sin reconstruir:
 ```bash
 docker-compose up -d
 ```
-
----
-
-## Próximos pasos / TODO
-
-### Seguridad
-
-* Configurar **CORS** correctamente.
-* Implementar **CSRF Tokens** en el backend.
-
 ---
 
 ## Tecnologías utilizadas
